@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "options": ["Paris", "London", "Berlin", "Madrid"],
+    "answer": "Paris"
+  },
+  {
+    "id": 2,
+    "question": "Which programming language is used for React?",
+    "options": ["Python", "Java", "JavaScript", "C++"],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 3,
+    "question": "What is 2 + 2?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "4"
+  },
+  {
+    "id": 4,
+    "question": "Which company developed React?",
+    "options": ["Google", "Facebook", "Microsoft", "Apple"],
+    "answer": "Facebook"
+  },
+  {
+    "id": 5,
+    "question": "What is the largest planet in our Solar System?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "answer": "Jupiter"
+  },
+  {
+    "id": 6,
+    "question": "What does HTML stand for?",
+    "options": ["HyperText Markup Language", "HighText Machine Language", "Hyper Transfer Markup Language", "None"],
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "id": 7,
+    "question": "Which CSS property controls text size?",
+    "options": ["font-style", "text-size", "font-size", "size"],
+    "answer": "font-size"
+  },
+  {
+    "id": 8,
+    "question": "Which keyword is used to define a constant in JavaScript?",
+    "options": ["var", "let", "const", "static"],
+    "answer": "const"
+  },
+  {
+    "id": 9,
+    "question": "Who is known as the Father of Computers?",
+    "options": ["Alan Turing", "Charles Babbage", "John von Neumann", "Bill Gates"],
+    "answer": "Charles Babbage"
+  },
+  {
+    "id": 10,
+    "question": "Which HTML tag is used to display an image?",
+    "options": ["<img>", "<src>", "<image>", "<pic>"],
+    "answer": "<img>"
+  }
+]
